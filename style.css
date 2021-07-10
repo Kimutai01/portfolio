@@ -27,8 +27,11 @@ header {
     background-position: center;
 }
 
-.nav-bar {
+nav ul li {
     list-style: none;
+    float: right;
+    text-decoration: none;
+    margin-left: 20px;
 }
 
 
