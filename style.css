@@ -20,5 +20,12 @@ span {
     color: darkorange;
 }
 
+header {
+    background-image: url("images/david-schultz-6LIqs_kKu3c-unsplash.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
 
 
