@@ -46,6 +46,22 @@ header {
     top: 160%;
     right: -30%;
 }
+.col img {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    margin-top: 20px;
+}
+footer {
+    background-color: rgb(37, 36, 36);
+}
+footer div ul li a i {
+    color: white;
+}
+
+
+
+
 
 
 
