@@ -55,9 +55,14 @@ header {
 footer {
     background-color: rgb(37, 36, 36);
 }
-footer div ul li a i {
-    color: white;
+.links a {
+    color: orange;
+    text-decoration: none;
 }
+.links ul li{
+    list-style: none;
+}
+
 
 
 
